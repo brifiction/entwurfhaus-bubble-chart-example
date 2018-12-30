@@ -1,5 +1,7 @@
 # entwurfhaus-bubble-chart-example
 
+preview: https://brifiction.github.io/entwurfhaus-bubble-chart-example/
+
 notes
 - built & experimented with parceljs (optional)
 - used JSON random generator service to create dummy JSON records
