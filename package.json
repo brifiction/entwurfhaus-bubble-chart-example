@@ -1,9 +1,9 @@
 {
-  "name": "entwurfhaus-parcel",
+  "name": "entwurfhaus-bubble-chart-example",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "description": "entwurfhaus parcel demo",
+  "description": "entwurfhaus bubble chart demo",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
